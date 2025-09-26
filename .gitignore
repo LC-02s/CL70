@@ -2,6 +2,6 @@
 *.bak
 
 # KiCAD 백업 파일
-*/*-backups/*.zip
+**/*-backups/*.zip
 
 *.lck
